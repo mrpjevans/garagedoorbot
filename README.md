@@ -1,5 +1,10 @@
 # GarageDoorBot
 
+## NOTICE
+
+This version is as published in The MagPi. See the Version 2 branch for more features and more
+resiliant code.
+
 ## Introduction
 
 GarageDoorBot is a simple script for Raspbery Pi Pico W and the SB Components single-channel
