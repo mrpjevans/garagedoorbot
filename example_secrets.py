@@ -1,0 +1,6 @@
+WIFI_SSID = "<Your wifi network name>"
+WIFI_PASSWORD = "<Your wifi network password>"
+MQTT_CLIENT_ID = b"GarageDoorOperatorBot"
+MQTT_BROKER = "<IP address of your MQTT broker>"
+MQTT_TOPIC = b"garage/door/operator/trigger"
+MQTT_TOPIC_ACK = b"garage/door/operator/ack"
